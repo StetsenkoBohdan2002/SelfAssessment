@@ -5,29 +5,29 @@
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
-  - Event loop: microtasks and macrotasks
+  - Event loop: microtasks and macrotasks: 🖐️ used
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - node:module: 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Modules as singletons: 🖐️ used
+  - Contexts and scripts node:vm: 🖐️ used
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
+  - Module-based permissions model: 🖐️ used
+  - Isolation with modularity: 🖐️ used
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -38,11 +38,11 @@
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async: 🖐️ used
   - Copy folder recursively
-  - Worker threads
+  - Worker threads: 🖐️ used
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici: 🖐️ used
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -50,15 +50,15 @@
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads
+  - node:worker_threads: 🖐️ used
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
+  - node:url vs new URL: 🖐️ used
   - node:assert
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer: 🖐️ used
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID: 🖐️ used
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,15 +86,15 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S): 🖐️ used
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 🔬 researched 
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
   - Routing
   - DoS
@@ -114,16 +114,16 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 🔬 researched 
   - Application configuring
-  - Testing
-  - CI/CD
-  - Readable
-  - Writable
+  - Testing: 🔬 researched 
+  - CI/CD: 🔬 researched 
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 🔬 researched 
+  - Console: 🔬 researched 
   - Inspector
   - Reliability
   - Quality
@@ -131,17 +131,17 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🔬 researched 
   - Active record
-  - Query builder
+  - Query builder: 🔬 researched 
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
-  - How to avoid mixins
+  - Error: 🔬 researched 
+  - error.cause: 🔬 researched 
+  - error.code: 🔬 researched 
+  - error.message: 🔬 researched 
+  - error.stack: 🔬 researched 
+  - How to avoid mixins: 🖐️ used
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
