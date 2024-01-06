@@ -5,14 +5,14 @@
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 🔬 researched
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 🔬 researched
   - Object-based programming
   - Generic programming
   - Concurrent computing
   - Asyncronous programming
-  - Parallel programming
+  - Parallel programming: 🔬 researched
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
@@ -21,44 +21,44 @@
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor: 🔬 researched
+  - new: 🔬 researched
+  - Static method: 🔬 researched
+  - Method: 🔬 researched
+  - Async method: 🔬 researched
+  - Getters, Setters: 🔬 researched
+  - Public fields: 🔬 researched
+  - Private fields: 🔬 researched
+  - Field declarations: 🔬 researched
+  - Inheritance: 🔬 researched
+  - Parent class: 🔬 researched
+  - Polymorphism: 🔬 researched
+  - Abstract class: 🔬 researched
+  - Interface: 🔬 researched
+  - Encapsulation: 🔬 researched
+  - Hidden class: 🔬 researched
+  - Object form: 🔬 researched
+  - instance: 🔬 researched
+  - Introspection: 🔬 researched
+  - Reflection: 🔬 researched
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
+  - Singleton: 🔬 researched
+  - Factory Method: 🔬 researched
+  - Abstract Factory: 🔬 researched
+  - Adapter: 🔬 researched
+  - Observer: 🔬 researched
   - Strategy
-  - Facade
-  - Proxy
+  - Facade: 🔬 researched
+  - Proxy: 🔬 researched
   - Chain of Responsibility
   - Command
-  - Iterator
-  - State
+  - Iterator: 🔬 researched
+  - State: 🔬 researched
   - Bridge
-  - Builder
-  - Prototype
+  - Builder: 🔬 researched
+  - Prototype: 🔬 researched
   - Composite
-  - Decorator
+  - Decorator: 🔬 researched
   - Flyweight
   - Mediator
   - Memento

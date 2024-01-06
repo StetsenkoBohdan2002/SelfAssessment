@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
+  - Object: 🔬 researched 
+  - this: 🔬 researched 
+  - arrow function: 🔬 researched 
+  - async function: 🔬 researched 
+  - call: 🔬 researched 
+  - bind: 🔬 researched 
+  - apply: 🔬 researched 
+  - instanceof: 🔬 researched 
+  - ...spread: 🔬 researched 
+  - ...rest: 🔬 researched 
+  - typeof: 🔬 researched 
+  - destructuring: 🔬 researched 
+  - generator: 🔬 researched 
+  - iterator: 🔬 researched 
+  - async generator: 🔬 researched 
+  - async iterator: 🔬 researched 
   - chaining
   - optional chaining
-  - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
-  - Reflect
+  - IIFE: 🔬 researched 
+  - global: 🔬 researched 
+  - globalThis: 🔬 researched 
+  - window: 🔬 researched 
+  - getters and setters: 🔬 researched 
+  - __proto__: 🔬 researched 
+  - prototype: 🔬 researched 
+  - equality operators: 🔬 researched 
+  - logical operators: 🔬 researched 
+  - bitwise operators: 🔬 researched 
+  - ternary operator: 🔬 researched 
+  - void: 🔬 researched 
+  - yield: 🔬 researched 
+  - await: 🔬 researched 
+  - template literal: 🔬 researched 
+  - strict mode: 🔬 researched 
+  - delete: 🔬 researched 
+  - in: 🔬 researched 
+  - super: 🔬 researched 
+  - Symbol: 🔬 researched 
+  - Reflect: 🔬 researched 
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if: 🔬 researched 
+  - while: 🔬 researched 
+  - do..while: 🔬 researched 
+  - for: 🔬 researched 
+  - for..in: 🔬 researched 
+  - for..of: 🔬 researched 
+  - for await: 🔬 researched 
+  - throw: 🔬 researched 
+  - break: 🔬 researched 
+  - continue: 🔬 researched 
+  - import: 🔬 researched 
+  - export: 🔬 researched 
+  - label: 🔬 researched 
+  - try..catch: 🔬 researched 
+  - switch: 🔬 researched 
+  - class: 🔬 researched 
+  - new Error: 🔬 researched 
+  - with: 🔬 researched 
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration: 🔬 researched 
+  - function expression: 🔬 researched 
+  - return: 🔬 researched 
+  - default parameters: 🔬 researched 
+  - functional object: 🔬 researched 
 - Data structures
-  - Array
-  - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
-  - weak collections
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - Array: 🔬 researched 
+  - mixin: 🔬 researched 
+  - extend: 🔬 researched 
+  - typed arrays: 🔬 researched 
+  - Map: 🔬 researched 
+  - Set: 🔬 researched 
+  - undefined: 🔬 researched 
+  - null: 🔬 researched 
+  - Proxy: 🔬 researched 
+  - weak collections: 🔬 researched 
+  - timers: 🔬 researched 
+  - EventEmitter: 🔬 researched 
+  - RegExp: 🔬 researched 
+  - Date: 🔬 researched 
+  - BigInt: 🔬 researched 
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 🔬 researched 
+  - Node.js: 🔬 researched 
+  - npm: 🔬 researched 
+  - prettier: 🔬 researched 
+  - MDN: 🔬 researched 
