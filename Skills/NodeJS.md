@@ -5,17 +5,17 @@
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
   - Event loop: phases
-  - Event loop: microtasks and macrotasks
+  - Event loop: microtasks and macrotasks: 🖐️ used
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - node:module
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
+  - node:module: 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons: 🖐️ used
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules
   - Dependencies: package.json and package lock
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -38,9 +38,9 @@
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async: 🖐️ used
   - Copy folder recursively
-  - Worker threads
+  - Worker threads: 🖐️ used
   - Performance hooks
   - Native fetch and nodejs/undici
   - node:async_hooks
@@ -58,7 +58,7 @@
   - node:url vs new URL
   - node:assert
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer: 🖐️ used
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID: 🖐️ used
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,11 +86,11 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S): 🖐️ used
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 🔬 researched 
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
@@ -114,16 +114,16 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging: 🔬 researched 
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing: 🔬 researched 
+  - CI/CD: 🔬 researched 
   - Readable
   - Writable
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 🔬 researched 
+  - Console: 🔬 researched 
   - Inspector
   - Reliability
   - Quality
@@ -131,16 +131,16 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🔬 researched 
   - Active record
-  - Query builder
+  - Query builder: 🔬 researched 
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
-  - error.stack
+  - Error: 🔬 researched 
+  - error.cause: 🔬 researched 
+  - error.code: 🔬 researched 
+  - error.message: 🔬 researched 
+  - error.stack: 🔬 researched 
   - How to avoid mixins
   - Error.captureStackTrace
   - Uncaught exceptions
