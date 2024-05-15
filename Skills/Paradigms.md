@@ -13,7 +13,7 @@
   - Concurrent computing
   - Asyncronous programming
   - Parallel programming: 🔬 researched
-  - Reactive programming
+  - Reactive programming: 🖐️ used
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
@@ -47,7 +47,7 @@
   - Abstract Factory: 🔬 researched
   - Adapter: 🔬 researched
   - Observer: 🔬 researched
-  - Strategy
+  - Strategy: 🖐️ used
   - Facade: 🔬 researched
   - Proxy: 🔬 researched
   - Chain of Responsibility
@@ -57,10 +57,10 @@
   - Bridge
   - Builder: 🔬 researched
   - Prototype: 🔬 researched
-  - Composite
+  - Composite: 🖐️ used
   - Decorator: 🔬 researched
   - Flyweight
-  - Mediator
+  - Mediator: 🖐️ used
   - Memento
   - Template Method
   - Visitor

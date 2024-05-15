@@ -44,8 +44,8 @@
   - callback: 🔬 researched
   - listener: 🔬 researched
   - compose: 🔬 researched
-  - pipe
-  - memoize
+  - pipe: 🖐️ used
+  - memoize: 🖐️ used
   - wrapper
   - functor: 🔬 researched
   - monad
@@ -56,7 +56,7 @@
   - array: 🔬 researched
   - structure: 🔬 researched
   - record: 🔬 researched
-  - enum
+  - enum: 🖐️ used
   - instance: 🔬 researched
   - object: 🔬 researched
   - class: 🔬 researched
@@ -70,8 +70,8 @@
   - queue: 🔬 researched
   - stack: 🔬 researched
   - deque
-  - tree
-  - graph
+  - tree: 🖐️ used
+  - graph: 🖐️ used
   - iterator: 🔬 researched
   - mutable state: 🔬 researched
   - immutable state: 🔬 researched
@@ -100,7 +100,7 @@
   - unreachable code
   - duplicate code: 🔬 researched
   - exception
-  - return early
+  - return early: 🖐️ used
   - unittest: 🔬 researched
   - git: 🔬 researched
   - github: 🔬 researched

@@ -14,8 +14,8 @@
   - Event ports: 🔬 researched 
   - libuv: 🔬 researched 
   - Race conditions
-  - Dead locks
-  - Live locks
+  - Dead locks: 🖐️ used
+  - Live locks: 🖐️ used
   - Concurrent programming
   - Parallel programming: 🔬 researched 
   - Actor Model
@@ -36,10 +36,10 @@
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
+  - Stream: 🖐️ used
   - Chain of responsibility
   - Middleware: 🔬 researched
-  - Locks
+  - Locks: 🖐️ used
 - Async adapters and utils
   - callbackify: 🔬 researched
   - promisify: 🔬 researched
@@ -50,9 +50,9 @@
   - EventEmitter: 🔬 researched
   - Observable/Observer: 🔬 researched
   - Readable: 🔬 researched
-  - Writable
+  - Writable: 🖐️ used
   - Transform
-  - Async Pool
+  - Async Pool: 🖐️ used
   - Async Queue: 🔬 researched
   - Async Collector
   - Semaphore

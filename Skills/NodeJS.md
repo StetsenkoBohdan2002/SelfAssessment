@@ -16,12 +16,12 @@
   - node:module: 🖐️ used
   - Caching in CJS and ESM
   - Modules as singletons: 🖐️ used
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Contexts and scripts node:vm: 🖐️ used
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
+  - Module-based permissions model: 🖐️ used
+  - Isolation with modularity: 🖐️ used
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -42,7 +42,7 @@
   - Copy folder recursively
   - Worker threads: 🖐️ used
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici: 🖐️ used
   - node:async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -50,12 +50,12 @@
   - Node.js single executable
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads
+  - node:worker_threads: 🖐️ used
   - node:child_process
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL
+  - node:url vs new URL: 🖐️ used
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer: 🖐️ used
@@ -94,7 +94,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
   - Routing
   - DoS
@@ -118,8 +118,8 @@
   - Application configuring
   - Testing: 🔬 researched 
   - CI/CD: 🔬 researched 
-  - Readable
-  - Writable
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - back pressure
   - Buffer: 🔬 researched 
@@ -141,7 +141,7 @@
   - error.code: 🔬 researched 
   - error.message: 🔬 researched 
   - error.stack: 🔬 researched 
-  - How to avoid mixins
+  - How to avoid mixins: 🖐️ used
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump

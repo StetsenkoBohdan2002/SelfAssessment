@@ -17,8 +17,8 @@
   - iterator: 🔬 researched 
   - async generator: 🔬 researched 
   - async iterator: 🔬 researched 
-  - chaining
-  - optional chaining
+  - chaining: 🖐️ used
+  - optional chaining: 🖐️ used
   - IIFE: 🔬 researched 
   - global: 🔬 researched 
   - globalThis: 🔬 researched 
