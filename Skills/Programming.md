@@ -46,7 +46,7 @@
   - compose: 🔬 researched
   - pipe: 🖐️ used
   - memoize: 🖐️ used
-  - wrapper
+  - wrapper: 🔬 researched 
   - functor: 🔬 researched
   - monad
   - monoid
@@ -96,10 +96,10 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
-  - unreachable code
+  - dead code: 🔬 researched 
+  - unreachable code: 🔬 researched 
   - duplicate code: 🔬 researched
-  - exception
+  - exception: 🔬 researched 
   - return early: 🖐️ used
   - unittest: 🔬 researched
   - git: 🔬 researched
